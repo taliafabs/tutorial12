@@ -31,12 +31,6 @@ number-sections: true
 
 -   Out-of-scope uses: Not for use on training data sets with fewer than 10,000 respondents or census data sets from before 2022.
 
-**Factors**
-
-**Metrics**
-
-*Model performance metrics* -
-
 **Evaluation Data**
 
 -   The 2020 U.S. Cooperative Election Study was used to post-stratify
@@ -86,5 +80,3 @@ number-sections: true
 -   Additional testing, analysis, and research is needed.
 
 -   As seen in Tutorial 10, there is no clear-cut way to choose predictors for the logistic regression model. It may be wise to consider slightly different logistic regression models and compare the results.
-
-**Caveats and Recommendations**
